@@ -74,7 +74,7 @@ async def main():
     scheduler.add_job(send_reminder, 'cron', hour=9)
     scheduler.add_job(send_reminder, 'cron', hour=14)
     scheduler.add_job(send_reminder, 'cron', hour=19)
-    scheduler.add_job(send_tip, 'interval', minutes=2)  # For testing
+    scheduler.add_job(send_tip, 'interval', hours=2)  # For testing
 
     print("🤖 Krishna-CodeKarle-Bot chal raha hai bhai! Daant & Tips ready ho gyi.")
     scheduler.start()
