@@ -1,0 +1,482 @@
+[
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion."
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean."
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance."
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match."
+  },
+  {
+    "title": "JavaScript: Use Array.map() instead of for loops",
+    "description": "For transforming arrays, .map() is cleaner and more functional."
+  },
+  {
+    "title": "React: Always use key prop in lists",
+    "description": "Provide a unique key prop to each element in a list to prevent rendering issues."
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior."
+  },
+  {
+    "title": "PHP: Use PDO for secure DB interaction",
+    "description": "Use PHP Data Objects (PDO) with prepared statements to prevent SQL injection."
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "JavaScript: Use Array.map() instead of for loops",
+    "description": "For transforming arrays, .map() is cleaner and more functional. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "JavaScript: Use Array.map() instead of for loops",
+    "description": "For transforming arrays, .map() is cleaner and more functional. ✅"
+  },
+  {
+    "title": "JavaScript: Use Array.map() instead of for loops",
+    "description": "For transforming arrays, .map() is cleaner and more functional. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "React: Always use key prop in lists",
+    "description": "Provide a unique key prop to each element in a list to prevent rendering issues. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "JavaScript: Use Array.map() instead of for loops",
+    "description": "For transforming arrays, .map() is cleaner and more functional. ✅"
+  },
+  {
+    "title": "JavaScript: Use Array.map() instead of for loops",
+    "description": "For transforming arrays, .map() is cleaner and more functional. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "React: Always use key prop in lists",
+    "description": "Provide a unique key prop to each element in a list to prevent rendering issues. ✅"
+  },
+  {
+    "title": "React: Always use key prop in lists",
+    "description": "Provide a unique key prop to each element in a list to prevent rendering issues. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "JavaScript: Use Array.map() instead of for loops",
+    "description": "For transforming arrays, .map() is cleaner and more functional. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "JavaScript: Use Array.map() instead of for loops",
+    "description": "For transforming arrays, .map() is cleaner and more functional. ✅"
+  },
+  {
+    "title": "JavaScript: Use Array.map() instead of for loops",
+    "description": "For transforming arrays, .map() is cleaner and more functional. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "PHP: Use PDO for secure DB interaction",
+    "description": "Use PHP Data Objects (PDO) with prepared statements to prevent SQL injection. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "PHP: Use PDO for secure DB interaction",
+    "description": "Use PHP Data Objects (PDO) with prepared statements to prevent SQL injection. ✅"
+  },
+  {
+    "title": "PHP: Use PDO for secure DB interaction",
+    "description": "Use PHP Data Objects (PDO) with prepared statements to prevent SQL injection. ✅"
+  },
+  {
+    "title": "PHP: Use PDO for secure DB interaction",
+    "description": "Use PHP Data Objects (PDO) with prepared statements to prevent SQL injection. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "JavaScript: Use Array.map() instead of for loops",
+    "description": "For transforming arrays, .map() is cleaner and more functional. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "PHP: Use PDO for secure DB interaction",
+    "description": "Use PHP Data Objects (PDO) with prepared statements to prevent SQL injection. ✅"
+  },
+  {
+    "title": "React: Always use key prop in lists",
+    "description": "Provide a unique key prop to each element in a list to prevent rendering issues. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "React: Always use key prop in lists",
+    "description": "Provide a unique key prop to each element in a list to prevent rendering issues. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "PHP: Use PDO for secure DB interaction",
+    "description": "Use PHP Data Objects (PDO) with prepared statements to prevent SQL injection. ✅"
+  },
+  {
+    "title": "PHP: Use PDO for secure DB interaction",
+    "description": "Use PHP Data Objects (PDO) with prepared statements to prevent SQL injection. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "JavaScript: Use Array.map() instead of for loops",
+    "description": "For transforming arrays, .map() is cleaner and more functional. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "React: Always use key prop in lists",
+    "description": "Provide a unique key prop to each element in a list to prevent rendering issues. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "React: Use Fragment to avoid extra divs",
+    "description": "Wrap adjacent JSX elements in <>...</> instead of <div> to keep DOM clean. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "Next.js: Image Optimization with next/image",
+    "description": "Use the <Image> component for faster image loading and responsive behavior. ✅"
+  },
+  {
+    "title": "PHP: Use PDO for secure DB interaction",
+    "description": "Use PHP Data Objects (PDO) with prepared statements to prevent SQL injection. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "React: Always use key prop in lists",
+    "description": "Provide a unique key prop to each element in a list to prevent rendering issues. ✅"
+  },
+  {
+    "title": "PHP: Use PDO for secure DB interaction",
+    "description": "Use PHP Data Objects (PDO) with prepared statements to prevent SQL injection. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "JavaScript: Use === instead of ==",
+    "description": "Always use strict equality (===) to avoid unexpected type coercion. ✅"
+  },
+  {
+    "title": "JavaScript: Use Array.map() instead of for loops",
+    "description": "For transforming arrays, .map() is cleaner and more functional. ✅"
+  },
+  {
+    "title": "React: Always use key prop in lists",
+    "description": "Provide a unique key prop to each element in a list to prevent rendering issues. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "PHP: Use === for type-safe comparison",
+    "description": "Like JS, in PHP prefer === over == to ensure both value and type match. ✅"
+  },
+  {
+    "title": "PHP: Use PDO for secure DB interaction",
+    "description": "Use PHP Data Objects (PDO) with prepared statements to prevent SQL injection. ✅"
+  },
+  {
+    "title": "React: Always use key prop in lists",
+    "description": "Provide a unique key prop to each element in a list to prevent rendering issues. ✅"
+  },
+  {
+    "title": "React: Always use key prop in lists",
+    "description": "Provide a unique key prop to each element in a list to prevent rendering issues. ✅"
+  },
+  {
+    "title": "Next.js: Pre-render with getStaticProps",
+    "description": "Use getStaticProps to fetch data at build time for better performance. ✅"
+  },
+  {
+    "title": "PHP: Use PDO for secure DB interaction",
+    "description": "Use PHP Data Objects (PDO) with prepared statements to prevent SQL injection. ✅"
+  }
+]
